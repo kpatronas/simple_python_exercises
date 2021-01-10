@@ -1,0 +1,5 @@
+Ex01
+In this exercise you will need to do the following
+1. download this file on your desktop
+2. Create a python script that will read this file and print each word in a separate line
+3. Bonus: make the Python script to read any txt file from the command line: example script_file.py any_file.txt
